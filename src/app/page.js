@@ -5,6 +5,7 @@ import MainModal from './components/MainModal';
 import 'tailwindcss/tailwind.css';
 import BarChart from "./components/BarChart";
 import Overall from "./components/Overall";
+import PersonalDetails from "./components/personalDetails";
 
 
 const HomePage = () => {
