@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import MyModal from './MyModal';
 import CloseIcon from '@mui/icons-material/Close';

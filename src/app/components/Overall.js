@@ -1,4 +1,4 @@
-export default Overall = () => {
+export default function Overall(){
     return(
 
         <div className="flex justify-center items-center h-screen">

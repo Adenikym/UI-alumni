@@ -1,9 +1,10 @@
-import HeroSection from "../components/heroSection";
-import Navbar from "../components/navbar";
-import MainModal from '../components/MainModal';
+"use client";
+import HeroSection from "./components/heroSection";
+import Navbar from "./components/navbar";
+import MainModal from './components/MainModal';
 import 'tailwindcss/tailwind.css';
-import BarChart from "../components/BarChart";
-import Overall from "../components/Overall";
+import BarChart from "./components/BarChart";
+import Overall from "./components/Overall";
 
 
 const HomePage = () => {

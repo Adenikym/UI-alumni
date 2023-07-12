@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import { AccountBalanceWallet, CreditCard, LocalAtm, Check } from '@mui/icons-material';
 
